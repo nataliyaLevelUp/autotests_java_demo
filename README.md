@@ -1,0 +1,1 @@
+# autotests_java_demo
